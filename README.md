@@ -2,7 +2,7 @@
 
 This repository contains a short course on Blockchain and Smart Contracts on the Algorand Chain. It is intended as a very fast preview of the **Writing Smart Contracts** winter school at USI Lugano, see https://www.usi.ch/wsc.
 
-## Philosphy
+## Philosophy
 * Ultra-fast introduction to blockchain, tokens and smart contracts
 * Entirely based on Python
 * Runs completely in Google colab
