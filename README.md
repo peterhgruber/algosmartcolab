@@ -12,7 +12,7 @@ This repository contains a short course on Blockchain and Smart Contracts on the
 * Have your Google account ready
   * If you don't have one, start here: https://accounts.google.com/signup/v2/createaccount  
 * Work through the notebooks in numerical order
-* Start with 01algosmart.ipnb <a target="_blank" href="https://colab.research.google.com/github/peterhgruber/algosmartcolab/blob/main/01algosmart.ipynb">
+* Start with 01algosmart.ipnb – click here to open in colab &nbsp; <a target="_blank" href="https://colab.research.google.com/github/peterhgruber/algosmartcolab/blob/main/01algosmart.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
